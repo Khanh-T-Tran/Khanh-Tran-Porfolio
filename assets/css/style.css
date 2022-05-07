@@ -83,22 +83,20 @@ header nav ul li {
     height: 1000px;
     font-family: cursive;
     background-color: #2b280ac2;
-    color: #ffffff;
+    color: #456105;
     font-size: 50px;
 }
-.myself {
-    
-    text-align: center;
-}
+
 .my-info {
-    
-    text-align: center;
+
+    color: antiquewhite;
+    text-align:left;
     padding: 30px;
     font-size:large;
     font-family:Verdana, Geneva, Tahoma, sans-seri
     
 }
-.contact {
+#contact {
     display: flex;
     justify-content: space-around;
     position: absolute;
@@ -107,3 +105,38 @@ header nav ul li {
     border: 3px solid #314406;
  }
  
+
+ /* Skill section */
+ .skills {
+     background-color: #2b280ac2;
+     height: 1000px;
+     color: #98c72b;
+     padding: 200px;
+     font-size: 50px;
+     display: flex;
+     text-align: center;
+     
+     width: 100%;
+    
+ }
+
+ #skills {
+    color: antiquewhite;
+    
+    justify-items: center;
+    padding: 70px;
+   
+   
+    font-size: 40px;
+    
+}
+
+#paraskil {
+    
+    padding: 20px;
+    font-size: 20px;
+}
+
+#skills ul {
+    list-style: none;
+}
