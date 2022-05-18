@@ -1,15 +1,15 @@
 # Khanh-Tran-Porfolio
-### _____ ::Challenge:: _____  
+### _____ Challenge _____  
 #### A portfolio of work can showcase my skills and talents to employers looking to fill a part-time or full-time position
 
 
-### _____ ::User Story:: _____
+### _____ User Story _____
 ##### AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 
-### _____ ::Acceptance Criteria:: _____
+### _____ Acceptance Criteria _____
 ####  
  ``` 
 GIVEN I need to sample a potential employee's previous work
@@ -28,17 +28,17 @@ THEN I am presented with a responsive layout that adapts to my viewport
   ```
  
  
- ### _____ ::Done:: _____
+ ### _____ Done _____
  - [X] Make an index HTML file with all the necessary information (a title, a name, nav bar, 3 sections of About, Skill, Porfolio inside the body)
  - [x] Make a style css file and an assets folder for containing images.
  - [x] Add elements to CSS file to make the page meet the requirements
  - [x] Edit and push the repository on githup
  
  
- ### _____ ::Reference Image:: _____
+ ### _____ Reference Image _____
   ![Horiseon](https://github.com/Khanh-T-Tran/Khanh-Tran-Porfolio/blob/main/assets/images/avatar_1.jpg?raw=true)
 
 
- ### ____ ::Page URL:: _____
+ ### ____ Page URL _____
  
   [Deployed Link](https://khanh-t-tran.github.io/Khanh-Tran-Porfolio/)
