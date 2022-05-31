@@ -36,7 +36,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
  
  
  ### _____ Reference Image _____
-  ![Horiseon](https://github.com/Khanh-T-Tran/Khanh-Tran-Porfolio/blob/main/assets/images/avatar_1.jpg?raw=true)
+  ![Porfolio](https://github.com/Khanh-T-Tran/Khanh-Tran-Porfolio/blob/main/assets/images/avatar_1.jpg?raw=true)
 
 
  ### ____ Page URL _____
